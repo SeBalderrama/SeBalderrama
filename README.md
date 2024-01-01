@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A student dev working on Android Apps and backend stuff.</h3>
+<h3 align="center">A student dev currently working on Android Apps and backend stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebalderrama&label=Profile%20views&color=0e75b6&style=flat" alt="sebalderrama" /> </p>
 
