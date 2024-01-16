@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebalderrama&label=Profile%20views&color=0e75b6&style=flat" alt="sebalderrama" /> </p>
 
-- 🔭 I’m currently working on **(a private repo :) )**
+- 🔭 I’m currently working on **(a private repository)**
 
 - 🌱 I’m currently learning **Kotlin, Facebook API, JS Frameworks**
 
