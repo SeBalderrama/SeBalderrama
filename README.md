@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A student dev currently working on Android Apps and backend stuff.</h3>
+<h3 align="center">A student dev currently working on AI/Machine Learning stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebalderrama&label=Profile%20views&color=0e75b6&style=flat" alt="sebalderrama" /> </p>
 
-- 🔭 I’m currently working on **(a private repository)**
+- 🔭 I’m currently working on **Canify! (Look at my LinkedIn for info)**
 
-- 🌱 I’m currently learning **Kotlin, Facebook API, JS Frameworks**
+- 🌱 I’m currently learning **NEAR's Shade Agent Stack, Blockchain tech, etc.**
 
 - 📫 How to reach me **sebastian.balderr@gmail.com**
 
