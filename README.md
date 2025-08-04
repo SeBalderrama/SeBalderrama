@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebalderrama&label=Profile%20views&color=0e75b6&style=flat" alt="sebalderrama" /> </p>
 
-- 🔭 I’m currently working on **Canify! (Look at my LinkedIn for info)**
+- 🔭 I’m currently working on **Hackathons + Side Projects**
 
 - 🌱 I’m currently learning **NEAR's Shade Agent Stack, Blockchain tech, etc.**
+
+- 🚀 [Check Me Out 👀](https://sebalderrama.github.io/)
 
 - 📫 How to reach me **sebastian.balderr@gmail.com**
 
